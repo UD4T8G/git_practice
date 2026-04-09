@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello, Python!
-=======
-Hello, World!
->>>>>>> feature_3way
